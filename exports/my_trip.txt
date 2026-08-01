@@ -1,0 +1,135 @@
+============================================================
+               AI TRAVEL PLANNER - ITINERARY
+               ============================================================
+
+Destination : Manali
+Days        : 4
+Budget      : ₹20000
+Interests   : Adventure, Nature
+Dates       : Dec 15-18
+
+
+[AI]
+[Tool Called: get_weather]
+🌤️ Current Weather for Manali
+
+Temperature   : 18°C
+Condition     : Partly Cloudy
+Humidity      : 65%
+Wind          : 8 km/h
+
+📅 3-Day Forecast:
+• Today:     16-22°C, Partly Cloudy
+• Tomorrow:  Light rain
+• Day 3:     13-19°C
+
+💡 Tip: Check local weather apps for real-time updates during your trip.
+
+[Tool Called: convert_currency]
+💱 Currency Conversion
+🇮🇳 INR : ₹20,000.00
+🇺🇳 USD : 240.53
+🇺🇳 EUR : 222.84
+🇺🇳 GBP : 191.94
+🇺🇳 JPY : 35,714.29
+🇺🇳 AUD : 364.96
+
+💡 Rate: 1 USD = ₹83.15 (approximate)
+
+[Tool Called: get_attractions]
+📍 Attractions in Manali
+
+🏔️ Solang Valley (14 km) - Skiing, Paragliding
+🏛️ Hadimba Temple (2 km) - Ancient Wood Temple
+🌊 Jogini Waterfall (3 km) - Scenic Trek
+🌲 Van Vihar Park (1 km) - Nature Walks
+
+🍽️ Restaurants
+1. The Lazy Dog - Continental & Indian (₹500-800)
+2. Cafe 1947 - Riverside Dining (₹400-700)
+3. Johnson's Cafe - Tibetan & Italian (₹300-600)
+
+[AI]
+Itinerary:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🌍 4-DAY MANALI ITINERARY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📅 Duration  : 4 Days / 3 Nights
+🎯 Interests : Adventure, Nature\n- Travel Dates: Dec 15-18\n\nGenerate a complete day-wise travel plan with:\n1. Morning, afternoon, and evening activities\n2. Places to visit\n3. Food recommendations\n4. Adventure activities matching interests: Adventure, Nature\n\nItinerary:\n'
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Day 1: Arrival & Local Exploration
+────────────────────────────────────────
+  ✅ Arrive & check into hotel/homestay
+  ✅ Visit local market & nearby attractions
+  ✅ Evening walk on Mall Road
+  ✅ Dinner at a local café
+
+Day 2: Adventure Day
+────────────────────────────────────────
+  ✅ Early morning trek to waterfall (3-4 hrs)
+  ✅ River crossing & rock climbing
+  ✅ Packed lunch by riverside
+  ✅ Visit temple/monastery
+  ✅ Bonfire at campsite
+
+Day 3: Nature & Sightseeing
+────────────────────────────────────────
+  ✅ Full-day trip to Solang Valley / scenic spot
+  ✅ Adventure sports (skiing, paragliding)
+  ✅ Photography session at viewpoints
+  ✅ Local Himachali dinner
+
+Day 4: Departure
+────────────────────────────────────────
+  ✅ Sunrise visit to hilltop viewpoint
+  ✅ Shopping for souvenirs
+  ✅ Check out & return journey
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✅ Your personalized itinerary is ready!
+💡 Use options menu to modify, export, or get more info.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+[AI]
+Budget:
+💰 Budget Breakdown for visit (₹20,000)
+========================================
+🏨 Accommodation      ₹   4,000   20%
+🚌 Transport          ₹   3,600   18%
+🍜 Food & Drinks      ₹   3,000   15%
+🎟️ Activities        ₹   4,400   22%
+🛍️ Shopping          ₹   2,000   10%
+📋 Entry Fees         ₹   1,000    5%
+💰 Contingency        ₹   2,000   10%
+────────────────────────────────────────
+Total Budget         ₹  20,000  100%
+
+📌 Per Day: ~₹5,000
+💡 Save by booking early & using local transport!
+
+[AI]
+Tips:
+🧳 Packing Suggestions for Manali
+
+👕 Warm layers (thermals, fleece, jacket)
+🥾 Comfortable walking/trekking shoes
+🧴 Sunscreen SPF 50+ & sunglasses
+💧 Reusable water bottle
+📱 Power bank & chargers
+💊 Basic first-aid kit
+🆔 ID proof & travel documents
+
+🚌 Local Travel Tips
+• Use public transport to save money
+• Eat at local dhabas for authentic food
+• Carry cash for small vendors
+• Negotiate prices at local markets
+• Download offline maps
+• Keep emergency numbers handy
+• Try the local cuisine
+• Respect local customs & dress codes
+
+⚡ Pro Tip: Start your days early to avoid crowds!
